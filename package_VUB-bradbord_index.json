@@ -20,7 +20,7 @@
           },
           "url": "https://github.com/Beni95/VUB/blob/main/VUB-cores/VUB-breadboard.zip?raw=true",
           "archiveFileName": "VUB-breadboard.zip",
-          "checksum": "SHA-256:C030AECE8811082517ED3A571529353B78B36BB7CE37D9A1BDC5E3E91C945560",
+          "checksum": "SHA-256:A5B52421BD88619A173D5D82444B06A234A83E7E50D3A6A989B79B3CD348819C",
           "size": "194407",
           "boards": [
             { "name": "VUB breadboard" }
