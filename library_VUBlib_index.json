@@ -1,0 +1,21 @@
+{
+  "libraries": [
+    {
+      "name": "VUBlib",
+      "version": "1.8.5",
+      "author": "Goran Benkek",
+      "website": "https://www.vub.hr",
+      "category": "Device Control",
+      "architectures": [
+        "avr"
+      ],
+      "types": [
+        "Arduino"
+      ],
+      "repository": "https://github.com/Beni95/VUB",
+      "url": "https://github.com/Beni95/VUB/blob/main/VUBlib.zip?raw=true",
+      "archiveFileName": "VUBlib.zip"
+    }
+    
+  ]
+}
